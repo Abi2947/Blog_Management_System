@@ -5,7 +5,7 @@
 ![JWT](https://img.shields.io/badge/Auth-JWT-yellow?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-red?style=for-the-badge)
 
-A **full-stack blog management application** that lets users register, log in, and manage events with full CRUD functionality. Built with **Node.js** on the backend and **React** on the frontend.
+A **full-stack blog management application** that lets users register, log in, and manage blogs with full CRUD functionality. Built with **Node.js** on the backend and **React** on the frontend.
 
 ---
 
@@ -13,8 +13,8 @@ A **full-stack blog management application** that lets users register, log in, a
 
 - ✅ User Authentication (Register & Login) with JWT tokens
 - ✅ Protected Routes for authenticated users
-- ✅ Event Management (Create, Read, Update, Delete)
-- ✅ File-based storage (no database required)
+- ✅ Blog Management (Create, Read, Update, Delete)
+- ✅ MongoDB storage (Database is being used)
 - ✅ Responsive UI with **React** and **CSS**
 - ✅ Validation & Error Handling
 - ✅ Full test coverage using **Jest**

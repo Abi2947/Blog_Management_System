@@ -5,7 +5,7 @@
 ![JWT](https://img.shields.io/badge/Auth-JWT-yellow?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-red?style=for-the-badge)
 
-A **full-stack blog management application** that lets users register, log in, and manage blogs with full CRUD functionality. Built with **Node.js** on the backend and **React** on the frontend.
+A **full-stack blog management application** that lets users register, login, and manage blogs with full CRUD functionality. Built with **Node.js** on the backend and **React** on the frontend.
 
 ---
 

@@ -1,0 +1,11 @@
+node_modules
+bin
+views
+package-lock.json
+
+.env
+
+logo.svg
+
+backend/public/javascripts
+

@@ -5,7 +5,7 @@ import "../App.css";
 
 const Register = () => {
   const [formData, setFormData] = useState({
-    username: "",
+    name: "",
     email: "",
     password: "",
   });

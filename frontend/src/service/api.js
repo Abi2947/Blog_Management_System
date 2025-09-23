@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const api = axios.create({
-  baseURL: "http://localhost:5000/", // Adjust to your backend URL
+  baseURL: "https://blog-management-system-kbjp.onrender.com/", // Adjust to your backend URL
 });
 
 api.interceptors.request.use((config) => {
